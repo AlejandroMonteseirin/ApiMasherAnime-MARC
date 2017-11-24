@@ -1,0 +1,34 @@
+﻿Nombre de gmail: grupoproyectomarc@gmail.com
+Contraseña: suspenso	
+Nombre del proyecto en appengine: Proyecto MARC
+ID del proyecto: proyecto-marc-aiss
+URL del proyecto: https://proyecto-marc-aiss.appspot.com/
+
+
+TUMBLR
+=============
+Correo: grupoproyectomarc@gmail.com
+Contraseña: patata1234
+Usuario: marcAISS
+
+Consumer Key dztBgYI7BAEbAyEZwY5f7YviRddsqWqIeeUGkP9ciLQJNgIgYQ
+Consumer Secret MaqCJgK41TQoYjhd5iEnx4k3tA9sqptYF1VJZd2NkMWOg0efqY
+Token riXR1hT4tuXAifjlMqaK35ZgMksqt9yFwvOxYFUWYi4vpO3WPv
+Token Secret MgSh9iAxQRQVXDf0bTHtkTdNsNUVwiaI1WuGgVQlthvh10g0g0
+API Key dztBgYI7BAEbAyEZwY5f7YviRddsqWqIeeUGkP9ciLQJNgIgYQ
+
+
+INSTAGRAM
+==============
+Correo: grupoproyectomarc@gmail.com
+Contraseña: patata1234
+Usuario: marcaiss6609
+Client ID: 1ad9386709134603ba90df4df3c42340
+Client Secret: b3676580ac8e4596ae55d5c927a6b77e
+
+
+Myanimelist
+=============
+Correo: grupoproyectomarc@gmail.com
+Contraseña: OuAltR0o2e85
+Usuario: GrupoMARC
